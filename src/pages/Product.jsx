@@ -106,7 +106,7 @@ const Product = () => {
                 Setting the bar as one of the loudest speakers in its class, the
                 Kilburn is a compact, stout-hearted hero with a well-balanced
                 audio which boasts a clear midrange and extended highs for a
-                sound.
+                sounded.
               </h6>
               <div className='flex flex-col mt-5 gap-y-3'>
                 <h6 className='text-sm font-normal text-[#9F9F9F]'>Size</h6>
