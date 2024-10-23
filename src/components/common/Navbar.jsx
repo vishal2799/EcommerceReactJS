@@ -1,4 +1,4 @@
-import logo from '../../assets/images/logo.png';
+import logo from '../../assets/images';
 import { FaRegHeart, FaRegUser, FaSearch } from 'react-icons/fa';
 import { FiShoppingCart } from 'react-icons/fi';
 import { RxHamburgerMenu } from 'react-icons/rx';
