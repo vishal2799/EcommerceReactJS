@@ -1,4 +1,4 @@
-import logo from '../../assets/images';
+import { Logo } from '../../assets/images';
 import { FaRegHeart, FaRegUser, FaSearch } from 'react-icons/fa';
 import { FiShoppingCart } from 'react-icons/fi';
 import { RxHamburgerMenu } from 'react-icons/rx';
@@ -17,7 +17,7 @@ const Navbar = () => {
     <header className='font-poppins py-[30px] px-[54px] 2xl:container mx-auto'>
       <nav className='flex items-center justify-between'>
         <NavLink to='/'>
-          <img src={logo} alt='logo' width={185} height={41} />
+          <img src={Logo} alt='logo' width={185} height={41} />
         </NavLink>
         <ul className='flex items-center gap-9 max-lg:hidden'>
           {navLinks.map((item, index) => (
